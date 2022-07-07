@@ -56,12 +56,11 @@
 >> 二级引用
 >>> 三级引用
 
-[GitHub](https://github.com "点击进入GitHub")
+[GitHub](https://github.com "点击进入GitHub")<br>
 ![自定义图片](C://Users//86176//Desktop//数字信号处理//1.png)
 
 
-...
-   c
+```c
 	#include<stdio.h>
 	int main()
 	{
@@ -69,8 +68,10 @@
 		return 0;
 	}
 
-...
-
-
+```
+游戏名|游戏价格|游戏排行
+--|:--|--:
+赛博朋克|9|009
+gta|99|100
 
 
